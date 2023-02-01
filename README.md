@@ -1,6 +1,9 @@
 # Persian-Captcha-With-CNN
  training a cnn model for  persiann captcha
 
+dataset: 
+https://www.kaggle.com/datasets/aliassareh1/persian-digits-captcha
+
 ran on kaggle GPU T4 x2
 
 Accuracy of the model on 6000 unseen images:
