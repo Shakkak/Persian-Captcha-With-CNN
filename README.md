@@ -1,5 +1,5 @@
 # Persian-Captcha-With-CNN
- training a cnn model for  persiann captcha
+ training a cnn model for  persian captcha
 
 dataset: 
 https://www.kaggle.com/datasets/aliassareh1/persian-digits-captcha
